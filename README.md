@@ -8,7 +8,7 @@ This project explores what makes Vancouver neighbourhoods liveable by combining 
 
 **Headline Finding:** Vancouver crime dropped 11.69% between 2023 and 2025 — including a consistent decline in the Downtown core.
 
-| Dashboard | [Vancouver Livability]([https://opendata.vancouver.ca](https://app.powerbi.com/groups/me/reports/a64e79c3-e721-4337-be56-8d4b26679e92/16ccb3e97cd54032716c?experience=power-bi)) | 27 centres |
+| Dashboard | [Vancouver Livability]([https://opendata.vancouver.ca](https://app.powerbi.com/groups/me/reports/a64e79c3-e721-4337-be56-8d4b26679e92/16ccb3e97cd54032716c?experience=power-bi)) 
 ---
 
 ## 📊 Dashboard
